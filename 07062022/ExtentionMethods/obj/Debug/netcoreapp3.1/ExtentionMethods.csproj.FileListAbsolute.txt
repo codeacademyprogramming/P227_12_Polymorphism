@@ -1,0 +1,14 @@
+C:\Users\Eagha\Desktop\CodeLessons\P227\19. 07-06-2022\07062022\ExtentionMethods\bin\Debug\netcoreapp3.1\ExtentionMethods.exe
+C:\Users\Eagha\Desktop\CodeLessons\P227\19. 07-06-2022\07062022\ExtentionMethods\bin\Debug\netcoreapp3.1\ExtentionMethods.deps.json
+C:\Users\Eagha\Desktop\CodeLessons\P227\19. 07-06-2022\07062022\ExtentionMethods\bin\Debug\netcoreapp3.1\ExtentionMethods.runtimeconfig.json
+C:\Users\Eagha\Desktop\CodeLessons\P227\19. 07-06-2022\07062022\ExtentionMethods\bin\Debug\netcoreapp3.1\ExtentionMethods.runtimeconfig.dev.json
+C:\Users\Eagha\Desktop\CodeLessons\P227\19. 07-06-2022\07062022\ExtentionMethods\bin\Debug\netcoreapp3.1\ExtentionMethods.dll
+C:\Users\Eagha\Desktop\CodeLessons\P227\19. 07-06-2022\07062022\ExtentionMethods\bin\Debug\netcoreapp3.1\ExtentionMethods.pdb
+C:\Users\Eagha\Desktop\CodeLessons\P227\19. 07-06-2022\07062022\ExtentionMethods\obj\Debug\netcoreapp3.1\ExtentionMethods.csproj.AssemblyReference.cache
+C:\Users\Eagha\Desktop\CodeLessons\P227\19. 07-06-2022\07062022\ExtentionMethods\obj\Debug\netcoreapp3.1\ExtentionMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eagha\Desktop\CodeLessons\P227\19. 07-06-2022\07062022\ExtentionMethods\obj\Debug\netcoreapp3.1\ExtentionMethods.AssemblyInfoInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\P227\19. 07-06-2022\07062022\ExtentionMethods\obj\Debug\netcoreapp3.1\ExtentionMethods.AssemblyInfo.cs
+C:\Users\Eagha\Desktop\CodeLessons\P227\19. 07-06-2022\07062022\ExtentionMethods\obj\Debug\netcoreapp3.1\ExtentionMethods.csproj.CoreCompileInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\P227\19. 07-06-2022\07062022\ExtentionMethods\obj\Debug\netcoreapp3.1\ExtentionMethods.dll
+C:\Users\Eagha\Desktop\CodeLessons\P227\19. 07-06-2022\07062022\ExtentionMethods\obj\Debug\netcoreapp3.1\ExtentionMethods.pdb
+C:\Users\Eagha\Desktop\CodeLessons\P227\19. 07-06-2022\07062022\ExtentionMethods\obj\Debug\netcoreapp3.1\ExtentionMethods.genruntimeconfig.cache
